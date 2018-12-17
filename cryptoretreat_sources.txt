@@ -10,6 +10,7 @@ CNBC Bitcoin page
 Forbes Crypto
 IBTimes Bitcoin Search
 NYTimes Bitcoin Search
+DeepDotWeb
 
 ---Crypto Blogs---
 Coinbase Blog
