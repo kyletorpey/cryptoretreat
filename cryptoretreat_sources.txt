@@ -8,8 +8,8 @@ Torrent Freak
 Coin Journal - Kyle Torpey's Posts
 CNBC Bitcoin page
 Forbes Crypto
-IBTimes Bitcoin Search
-NYTimes Bitcoin Search
+IBTimes Bitcoin Search results page
+NYTimes Bitcoin Search results page
 DeepDotWeb
 
 ---Crypto Blogs---
@@ -56,11 +56,12 @@ Andreas Antonopoulos
 Bitcoin Lectures
 MIT Bitcoin Club
 Monero Talk
+CNBC Television (filtered for key terms)
 
 ---Mainstream News Sources---
-Bloomberg
-Local US News Sources
-News Wires (AFP, AP, Reuters)
+Bloomberg (filtered for key terms)
+Local US News Sources (filtered for key terms)
+News Wires (AFP, AP, Reuters) (filtered for key terms)
 
 ---Subreddits---
 rBitcoin
