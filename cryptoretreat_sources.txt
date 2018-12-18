@@ -57,6 +57,10 @@ Bitcoin Lectures
 MIT Bitcoin Club
 Monero Talk
 CNBC Television (filtered for key terms)
+Bloomberg (filtered for key terms)
+Bloomberg Markets and Finance (filtered for key terms)
+Bloomberg Technology (filtered for key terms)
+Bloomberg Live (filtered for key terms)
 
 ---Mainstream News Sources---
 Bloomberg (filtered for key terms)
