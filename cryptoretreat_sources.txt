@@ -70,6 +70,8 @@ Local US News Sources
 News Wires (AFP, AP, Reuters)
 The Verge
 Tech Dirt
+Wall Street Journal
+BloombergQuint
 
 ---Subreddits---
 rBitcoin (ignoring reddit image posts to avoid memes)
@@ -78,7 +80,6 @@ rButtcoin (ignoring reddit image posts to avoid memes)
 rMonero
 rStallmanWasRight
 rPurism
-rDarkNetMarketsNoobs
 
 
 
