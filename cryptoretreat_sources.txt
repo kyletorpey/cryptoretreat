@@ -74,6 +74,7 @@ Wall Street Journal
 BloombergQuint
 Yahoo News
 Business Insider
+TechCrunch
 
 ---Subreddits---
 rBitcoin (ignoring reddit image posts to avoid memes)
