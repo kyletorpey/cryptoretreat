@@ -72,7 +72,7 @@ News Wires (AFP, AP, Reuters) (filtered for key terms)
 ---Subreddits---
 rBitcoin (ignoring reddit image posts to avoid memes)
 rPrivacy
-rButtcoin
+rButtcoin (ignoring reddit image posts to avoid memes)
 rMonero
 rStallmanWasRight
 rPurism
