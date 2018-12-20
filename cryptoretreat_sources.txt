@@ -64,10 +64,12 @@ Bloomberg Technology (filtered for key terms)
 Bloomberg Live (filtered for key terms)
 Crypto Cast Network
 
----Mainstream News Sources---
-Bloomberg (filtered for key terms)
-Local US News Sources (filtered for key terms)
-News Wires (AFP, AP, Reuters) (filtered for key terms)
+---Filtered News Sources---
+Bloomberg
+Local US News Sources
+News Wires (AFP, AP, Reuters)
+The Verge
+Tech Dirt
 
 ---Subreddits---
 rBitcoin (ignoring reddit image posts to avoid memes)
