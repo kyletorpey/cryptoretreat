@@ -75,6 +75,7 @@ BloombergQuint
 Yahoo News
 Business Insider
 TechCrunch
+South China Morning Post
 
 ---Subreddits---
 rBitcoin (ignoring reddit image posts to avoid memes)
@@ -83,6 +84,7 @@ rButtcoin (ignoring reddit image posts to avoid memes)
 rMonero
 rStallmanWasRight
 rPurism
+rdarknet
 
 
 
