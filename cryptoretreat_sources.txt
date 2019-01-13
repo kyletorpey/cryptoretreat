@@ -37,6 +37,7 @@ Bitpay Blog
 Blockstream Blog
 BitMEX Blog
 Tails Blog
+Provoost on Crypto
 
 ---Crypto Podcasts---
 Noded Podcast
@@ -77,6 +78,7 @@ TechCrunch
 South China Morning Post
 Forbes
 CNBC
+Bleeping Computer
 
 ---Subreddits---
 rBitcoin (ignoring reddit image posts to avoid memes)
