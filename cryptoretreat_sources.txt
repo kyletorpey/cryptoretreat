@@ -80,6 +80,9 @@ South China Morning Post
 Forbes
 CNBC
 Bleeping Computer
+CNN
+Ars Technica
+Fortune
 
 ---Subreddits---
 rBitcoin (ignoring reddit image posts to avoid memes)
