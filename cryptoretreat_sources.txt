@@ -83,6 +83,12 @@ Bleeping Computer
 CNN
 Ars Technica
 Fortune
+BBC
+The Hill
+Japan Times
+India Today
+Financial Times
+The Economist
 
 ---Subreddits---
 rBitcoin (ignoring reddit image posts to avoid memes)
