@@ -10,6 +10,7 @@ IBTimes Bitcoin Search results page
 NYTimes Bitcoin Search results page
 DeepDotWeb
 BREAKER
+CryptoDaily - Kyle Torpey's posts
 
 ---Crypto Blogs---
 Coinbase Blog
@@ -40,6 +41,8 @@ Tails Blog
 Provoost on Crypto
 Bitfury's Medium Blog
 David Gerard's Attack of the 50 Foot Blockchain Blog
+Nicehash Blog
+Ryan Selkis's Medium Blog
 
 ---Crypto Podcasts---
 Noded Podcast
@@ -90,6 +93,8 @@ Japan Times
 India Today
 Financial Times
 The Economist
+VICE Motherboard
+Wired
 
 ---Subreddits---
 rBitcoin (ignoring reddit image posts to avoid memes)
@@ -99,8 +104,7 @@ rMonero
 rStallmanWasRight
 rPurism
 rdarknet
-
-
+rethereum
 
 
 
