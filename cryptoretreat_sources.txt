@@ -11,6 +11,7 @@ NYTimes Bitcoin Search results page
 DeepDotWeb
 BREAKER
 CryptoDaily - Kyle Torpey's posts
+Longhash
 
 ---Crypto Blogs---
 Coinbase Blog
@@ -43,6 +44,13 @@ Bitfury's Medium Blog
 David Gerard's Attack of the 50 Foot Blockchain Blog
 Nicehash Blog
 Ryan Selkis's Medium Blog
+David Vorick's Medium Blog
+BlockCypher Blog
+Bitfinex Medium Blog
+Chris Burniske's Medium Blog
+Sergio Lerner's Blog
+Tuur Demeester's Medium Blog
+Nick Szabo's Blog
 
 ---Crypto Podcasts---
 Noded Podcast
@@ -52,6 +60,7 @@ Off the Chain
 Unchained
 Bitcoin Knowledge Podcast
 Let's Talk Bitcoin
+Stephan Livera Podcast
 
 ---YouTube Channels---
 World Crypto Network
@@ -102,6 +111,9 @@ Quartz
 Reason
 Rolling Stone
 The Independent
+Barron's
+The Information
+Time
 
 ---Subreddits---
 rBitcoin (ignoring reddit image posts to avoid memes)
